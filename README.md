@@ -2,7 +2,6 @@
 
 :computer: **Ingeniero Mecatronico**
 :eyeglasses: **Apasionado por los tutoriales**
-:gamecontroller: **Gamer**
 
 ### Contacto
 
